@@ -1,0 +1,3 @@
+The folder "files with modification" have files I have modify to my project work.
+
+The folders names are the name of the main package where they are.
